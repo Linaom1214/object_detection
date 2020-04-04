@@ -1,4 +1,9 @@
 item {
   id: 1
+  name: 'have_mask'
+}
+
+item {
+  id: 2
   name: 'no_mask'
 }
